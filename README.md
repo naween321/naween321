@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nabin Paudyal
+- 👋 Hi, I’m Nabin from Kathmandu, Nepal
 - 👀 I’m interested in software development and machine learning
 - 🌱 I’m currently learning ML in the computer vision, robotics and cyber security
 - 📫 npaudyal321@gmail.com
