@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nabin from Kathmandu, Nepal
 - 👀 I’m interested in software development and machine learning
-- 🌱 I’m currently learning ML in the computer vision, robotics and cyber security
+- 🌱 I’m currently learning ML for the computer vision, robotics and cyber security
 - 📫 npaudyal321@gmail.com
 
 <p align="center">
