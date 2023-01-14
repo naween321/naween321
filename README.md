@@ -4,7 +4,7 @@
 - 📫 npaudyal321@gmail.com
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=naween321&count_private=true&show_icons=true" alt="asheeshcric"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=naween321&count_private=true&show_icons=true" alt="naween321"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naween321&theme=light&hide_langs_below=1"/>
 </p>
 <!---
