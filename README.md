@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nabin from Kathmandu, Nepal
-- 👀 I’m interested in software development and machine learning
-- 🌱 I’m currently learning ML for computer vision and cyber security
-- 📫 contact - npaudyal321@gmail.com
+- 👀 I’m involved in the domain of software development and ed-tech industry
+- 🌱 Upskilling steadily in Cloud, ML and AI
+- 📫 npaudyal321@gmail.com
 
 <p align="center">
   <img align="left" src="https://github-readme-stats-naween321.vercel.app/api?username=naween321&count_private=true&show_icons=true&theme=tokyonight" alt="naween321"/>
