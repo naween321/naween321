@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nabin from Kathmandu, Nepal
-- 👀 I’m involved in the domain of software development and ed-tech industry
-- 🌱 Upskilling steadily in Cloud, ML and AI
+- 👀 I’m involved in the software development domain and ed-tech industry
+- 🌱 Upskilling steadily in Cloud, DevOps, ML and AI
 - 📫 npaudyal321@gmail.com
 
 <p align="center">
