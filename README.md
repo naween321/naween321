@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Nabin from Kathmandu, Nepal
-- 👀 I’m involved in the software development domain and ed-tech industry
-- 🌱 Upskilling steadily in Cloud, DevOps, ML and AI
-- 📫 npaudyal321@gmail.com
+- Hi, I’m Nabin from Worcester, MA
+- Graduate in Computer Science from Clark University
+- Passionate about Software Development (Full-Stack), Cloud and Automation
+- Upskilling steadily in Machine Learning and Deep Learning
+- npaudyal321@gmail.com
 
 <p align="center">
   <img align="left" src="https://github-readme-stats-naween321.vercel.app/api?username=naween321&count_private=true&show_icons=true&theme=tokyonight" alt="naween321"/>
